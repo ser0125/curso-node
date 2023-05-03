@@ -1,0 +1,3 @@
+# Notas:
+
+Curso de Node
